@@ -31,7 +31,8 @@ section {
 }
 .logo {
   width: 10%;
-  border: #fff solid 1px;
+  border: #fff solid 3x;
+  border-radius: 50%;
 }
 .product-card {
   border: 5px solid #333;
